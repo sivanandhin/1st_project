@@ -1,0 +1,11 @@
+p{
+    color:whitesmoke;
+}
+body{
+    background-color: rgb(107, 62, 211);
+}
+.name{
+    font-size:47px;
+    color:rgb(207, 228, 227);
+    text-align:center; 
+}
